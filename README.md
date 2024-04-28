@@ -9,4 +9,5 @@ Please feel free to fork or clone
 ## Setup
 
 `go run main.go`
+
 Server will be live by default on `localhost:8080`
